@@ -1,0 +1,13 @@
+*.avi
+dataset/
+rawframes/
+runs/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+
+
